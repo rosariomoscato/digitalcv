@@ -1,6 +1,6 @@
 ![image](./assets/demo1.png)
 
-#My Digital Curriculum Vitae
+# My Digital Curriculum Vitae
 
 To OPEN **Digital CV** click here: 
 
