@@ -103,7 +103,7 @@ st.subheader("Work History")
 st.write("---")
 
 # --- JOB 1
-st.write("🚧", "**Lead Ai Engineering | Live Tech**")
+st.write("🚧", "**Technical Director | Live Tech**")
 st.write("12/2022 - Present")
 st.write(
     """
