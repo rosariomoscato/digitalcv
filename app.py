@@ -87,12 +87,12 @@ st.write('\n')
 st.subheader("Hard Skills")
 st.write(
     """
-- 👨‍💻 Programming: Python (sklearn, keras, LangChain, Streamlit), SQL, HTML, CSS
+- 👨‍💻 Programming: Python (sklearn, keras, LangChain), SQL, HTML, CSS
 - 📊 Data Visulization: Matplotlib, Plotly, Seaborn, Streamlit, Gradio
 - 📚 Modeling: Classic ML, Neural Networks, Time Series, NLP, LLM, Generative AI
 - 🗄️ Databases: Relational DBs, Postgres, NoSQL Data Bases, Airtable
 - 💾 Operating Systems: Linux, macOS, Windows
-- 🏭 MLOps: Git, DVC, mlflow, Docker, BentoML, Evidently AI
+- 🏭 MLOps: Git, DVC, MLflow, Docker, BentoML, Evidently AI
 - 🔗 No-code: Glide, Bubble
 - 🤖 Automation: Make
 """
