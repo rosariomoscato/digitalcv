@@ -16,7 +16,7 @@ PAGE_TITLE = "Digital CV | Rosario Moscato"
 PAGE_ICON = "📜"
 NAME = "Rosario Moscato"
 DESCRIPTION = """
-Artificial intelligence Scientist, Developer, Evangelist and Ethicist
+Artificial intelligence Scientist, Hyperautomation and No-code Expert
 """
 EMAIL = "rosario.moscato@outlook.com"
 SOCIAL_MEDIA = {
