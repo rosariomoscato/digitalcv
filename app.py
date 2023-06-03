@@ -87,7 +87,7 @@ st.write('\n')
 st.subheader("Hard Skills")
 st.write(
     """
-- 👨‍💻 Programming: Python (sklearn, keras, Generative Ai), SQL, HTML
+- 👨‍💻 Programming: Python (sklearn, keras, LangChain, Streamlit), SQL, HTML
 - 📊 Data Visulization: Matplotlib, Plotly, Seaborn, Streamlit, Gradio
 - 📚 Modeling: Classic ML, Neural Networks, Time Series, NLP, LLM, Generative AI
 - 🗄️ Databases: Relational DBs, Postgres, NoSQL Data Bases, Airtable
