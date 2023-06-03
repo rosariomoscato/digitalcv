@@ -89,10 +89,12 @@ st.write(
     """
 - 👨‍💻 Programming: Python (sklearn, keras, Generative Ai), SQL, HTML
 - 📊 Data Visulization: Matplotlib, Plotly, Seaborn, Streamlit, Gradio
-- 📚 Modeling: Classic ML, Neural Networks, Time Series, NLP
-- 🗄️ Databases: Relational DBs, Postgres, NoSQL Data Bases
+- 📚 Modeling: Classic ML, Neural Networks, Time Series, NLP, LLM, Generative AI
+- 🗄️ Databases: Relational DBs, Postgres, NoSQL Data Bases, Airtable
 - 💾 Operating Systems: Linux, macOS, Windows
 - 🏭 MLOps: Git, DVC, mlflow, Docker, BentoML, Evidently AI
+- 🔗 No-code: Glide, Bubble
+- 🤖 Automation: Make
 """
 )
 
