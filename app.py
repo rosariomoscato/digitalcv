@@ -75,8 +75,9 @@ st.write(
     """
 - ✔️ Ai enthusiastic, Head of Ai and Data Science teams
 - ✔️ 20+ years worldwide experience (Europe, Asia, America)
-- ✔️ Conference Speaker and Technical/Scientific Consultant
 - ✔️ Author of two books about Ai and future
+- ✔️ Coordinator of the group **Neurobioethics and Artificial Intelligence** @Ateneo Pontificio Regina Apostolorum
+- ✔️ Conference Speaker and Technical/Scientific Consultant
 - ✔️ Teacher (Udemy and Universities)
 """
 )
@@ -106,7 +107,7 @@ st.write("---")
 
 # --- JOB 1
 st.write("🚧", "**CTO | Live Tech**")
-st.write("12/2022 - Present")
+st.write("01/2023 - Present")
 st.write(
     """
 - ► Define technical direction, group competencies and technologies, best practices and MLOps guidelines
@@ -119,7 +120,7 @@ st.write(
 # --- JOB 2
 st.write('\n')
 st.write("🚧", "**Senior Data Scientist | NTT Data**")
-st.write("03/2022 - 11/2022")
+st.write("03/2022 - 12/2022")
 st.write(
     """
 - ► Design/implementation of Ai business solutions and architectures for many of the most relevant public and private companies
