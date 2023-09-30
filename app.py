@@ -76,9 +76,9 @@ st.write(
 - ✔️ Ai enthusiastic, Head of Ai and Data Science teams
 - ✔️ 20+ years worldwide experience (Europe, Asia, America)
 - ✔️ Author of two books about Ai and future
-- ✔️ Coordinator of the group **Neurobioethics and Artificial Intelligence** @Ateneo Pontificio Regina Apostolorum
 - ✔️ Conference Speaker and Technical/Scientific Consultant
-- ✔️ Teacher (Udemy and Universities)
+- ✔️ Teacher (Universities and Udemy)
+- ✔️ Coordinator of the group **Neurobioethics and Artificial Intelligence** @Ateneo Pontificio Regina Apostolorum
 """
 )
 
