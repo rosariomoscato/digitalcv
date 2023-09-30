@@ -94,7 +94,7 @@ st.write(
 - 🗄️ Databases: Relational DBs, Postgres, NoSQL Data Bases
 - 💾 Operating Systems: Linux, macOS, Windows
 - 🏭 MLOps: Git, DVC, MLflow, Docker, BentoML, Evidently AI
-- 🔗 No-code: Airtable, Softr, Bubble, Glide, Voiceflow, Notion
+- 🔗 No-code: Airtable, Softr, Bubble, Glide, Voiceflow, Notion, Obviously AI
 - 🤖 Automation: Make, Zapier
 """
 )
