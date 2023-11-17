@@ -32,6 +32,12 @@ PROJECTS = {
     "🏆 Time Series Wizard - Web app to make forecasts with Time Series": "https://rosariomoscato-time-series-wizard.streamlit.app/",
 }
 
+BOOKS = {    
+    "🏆 Introduction to Natural Language Processing - NLP Course with 3 Universities": "https://powerlearning.anahuaconline.com/course/nlp",
+    "🏆 Covid19 Detection Tool - Web app for Covid19 diagnosis": "https://rosariomoscato-covid19detectiontool.streamlit.app/",
+    "🏆 Web Applications from Scratch with Streamlit - Best Seller Course": "https://www.udemy.com/course/web-app-from-scratch-with-streamlit/",
+    "🏆 Time Series Wizard - Web app to make forecasts with Time Series": "https://rosariomoscato-time-series-wizard.streamlit.app/",
+}
 
 st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON)
 
@@ -156,7 +162,7 @@ st.write(
 st.write('\n')
 st.subheader("My Books")
 st.write("---")
-for project, link in PROJECTS.items():
+for project, link in BOOKS.items():
     st.write(f"[{project}]({link})")
 
 # --- Projects & Accomplishments ---
