@@ -26,10 +26,8 @@ SOCIAL_MEDIA = {
     "Udemy": "https://www.udemy.com/user/rosario-moscato/",
 }
 PROJECTS = {    
-    "🏆 Introduction to Natural Language Processing - NLP Course with 3 Universities": "https://powerlearning.anahuaconline.com/course/nlp",
-    "🏆 Covid19 Detection Tool - Web app for Covid19 diagnosis": "https://rosariomoscato-covid19detectiontool.streamlit.app/",
-    "🏆 Web Applications from Scratch with Streamlit - Best Seller Course": "https://www.udemy.com/course/web-app-from-scratch-with-streamlit/",
-    "🏆 Time Series Wizard - Web app to make forecasts with Time Series": "https://rosariomoscato-time-series-wizard.streamlit.app/",
+    "📘 POST-UMANI E NUOVI DEI: Piccola guida al possibile futuro che ci aspetta ": "https://amzn.eu/d/8yngG0N",
+    "📘 Robocrazia: Episodio 1": "https://amzn.eu/d/iqBIGpm",
 }
 
 BOOKS = {    
