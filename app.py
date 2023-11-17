@@ -153,7 +153,11 @@ st.write(
 """
 )
 
-
+st.write('\n')
+st.subheader("My Books")
+st.write("---")
+for project, link in PROJECTS.items():
+    st.write(f"[{project}]({link})")
 
 # --- Projects & Accomplishments ---
 st.write('\n')
