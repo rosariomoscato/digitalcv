@@ -32,7 +32,7 @@ BOOKS = {
 }
 
 PROJECTS = {    
-    "🏆 Web App Development Made Simple with Streamlit": "https://powerlearning.anahuaconline.com/course/nlp",
+    "🏆 Introduction to Natural Language Processing - Course with three Universities": "https://powerlearning.anahuaconline.com/course/nlp",
     "🏆 Covid19 Detection Tool - Web app for Covid19 diagnosis": "https://rosariomoscato-covid19detectiontool.streamlit.app/",
     "🏆 Web Applications from Scratch with Streamlit - Best Seller Course": "https://www.udemy.com/course/web-app-from-scratch-with-streamlit/",
     "🏆 Time Series Wizard - Web app to make forecasts with Time Series": "https://rosariomoscato-time-series-wizard.streamlit.app/",
