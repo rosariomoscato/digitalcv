@@ -25,13 +25,14 @@ SOCIAL_MEDIA = {
     "Replit": "https://replit.com/@rosariomoscato",
     "Udemy": "https://www.udemy.com/user/rosario-moscato/",
 }
-BOOKS = {    
+BOOKS = { 
+    "📘 Web App Development Made Simple with Streamlit": "https://www.packtpub.com/product/web-app-development-made-simple-with-streamlit/9781835086315",
     "📘 POST-UMANI E NUOVI DEI: Piccola guida al possibile futuro che ci aspetta ": "https://amzn.eu/d/8yngG0N",
     "📘 Robocrazia: Episodio 1": "https://amzn.eu/d/iqBIGpm",
 }
 
 PROJECTS = {    
-    "🏆 Introduction to Natural Language Processing - NLP Course with 3 Universities": "https://powerlearning.anahuaconline.com/course/nlp",
+    "🏆 Web App Development Made Simple with Streamlit": "https://powerlearning.anahuaconline.com/course/nlp",
     "🏆 Covid19 Detection Tool - Web app for Covid19 diagnosis": "https://rosariomoscato-covid19detectiontool.streamlit.app/",
     "🏆 Web Applications from Scratch with Streamlit - Best Seller Course": "https://www.udemy.com/course/web-app-from-scratch-with-streamlit/",
     "🏆 Time Series Wizard - Web app to make forecasts with Time Series": "https://rosariomoscato-time-series-wizard.streamlit.app/",
@@ -79,7 +80,7 @@ st.write(
     """
 - ✔️ Ai enthusiastic, Head of Ai and Data Science teams
 - ✔️ 20+ years worldwide experience (Europe, Asia, America)
-- ✔️ Author of two books about Ai and future
+- ✔️ Author of three books about Ai and future
 - ✔️ Conference Speaker and Technical/Scientific Consultant
 - ✔️ Teacher (Universities and Udemy)
 - ✔️ Coordinator of the group **Neurobioethics and Artificial Intelligence** @Ateneo Pontificio Regina Apostolorum
