@@ -26,7 +26,7 @@ SOCIAL_MEDIA = {
     "Udemy": "https://www.udemy.com/user/rosario-moscato/",
 }
 BOOKS = { 
-    "📘 Web App Development Made Simple with Streamlit": "https://www.packtpub.com/product/web-app-development-made-simple-with-streamlit/9781835086315",
+    "📘 Web App Development Made Simple with Streamlit":  "https://amzn.eu/d/3k1xDZd",
     "📘 POST-UMANI E NUOVI DEI: Piccola guida al possibile futuro che ci aspetta ": "https://amzn.eu/d/8yngG0N",
     "📘 Robocrazia: Episodio 1": "https://amzn.eu/d/iqBIGpm",
 }
