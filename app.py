@@ -23,7 +23,6 @@ SOCIAL_MEDIA = {
     "LinkedIn": "https://www.linkedin.com/in/rosariomoscato",
     "GitHub": "https://github.com/rosariomoscato",
     "Replit": "https://replit.com/@rosariomoscato",
-    "Udemy": "https://www.udemy.com/user/rosario-moscato/",
 }
 BOOKS = { 
     "📘 Web App Development Made Simple with Streamlit":  "https://amzn.eu/d/3k1xDZd",
