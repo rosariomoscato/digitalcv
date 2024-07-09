@@ -83,6 +83,7 @@ st.write(
 - ✔️ Conference Speaker and Technical/Scientific Consultant
 - ✔️ Teacher (Universities and Udemy)
 - ✔️ Coordinator of the group **Neurobioethics and Artificial Intelligence** @Ateneo Pontificio Regina Apostolorum
+- ✔️ AI Section Author @Dire News Oggi
 """
 )
 
